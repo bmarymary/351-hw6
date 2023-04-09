@@ -1,4 +1,4 @@
-%% Simulation Tool A
+%% Simulation Tool
 
 %% A 
 % p(t) is the pulse shape
